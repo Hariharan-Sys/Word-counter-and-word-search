@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.BufferedReader;
 import java.util.Scanner;
 
-class D
+class ReadFile
 {
 String line;
 int count=0;
@@ -21,7 +21,7 @@ br.close();
 }
 }
 
-class E 
+class Buffer
 {
     
       int cnt=0;
@@ -64,7 +64,7 @@ class E
 
 }
 
-class F
+class Main
 {
 public static void main(String args[]) throws Exception
 {
